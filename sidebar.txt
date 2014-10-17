@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[knc:home|Door43 (knc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-knc|d43-knc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-knc/archive/master.zip|d43-knc.zip]]
+
+**Recent Changes**
+{{changes>ns = knc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/knc|Ethnologue data]]
+
